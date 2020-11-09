@@ -1,0 +1,32 @@
+{
+    "id": "B2484DD3",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1604886860758.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "sintomas_df",
+        "caption": "sintomas_df",
+        "totalObservations": 1230,
+        "displayedObservations": 1230,
+        "variables": 5,
+        "cacheKey": "9FDBF7D6",
+        "object": "sintomas_df",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=sintomas_df&cache_key=9FDBF7D6&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 468151435372,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604886860758,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "B23D65F4",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1604886156613.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "expression": "sintomas",
+        "caption": "sintomas",
+        "totalObservations": 1230,
+        "displayedObservations": 1230,
+        "variables": 5,
+        "cacheKey": "C35E9B11",
+        "object": "sintomas",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=sintomas&cache_key=C35E9B11&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 468151435372,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604886156613,
+    "read_only": false,
+    "read_only_alternatives": []
+}
