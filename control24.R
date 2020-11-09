@@ -29,5 +29,6 @@ tiene_sintomas <- filter(sintomas_df,tiene_tos==1 & tiene_dolor_cabeza==1 )
 
 #(D) Respuesta: 
 
- tiene_fiebre <- rep(c("TRUE"),length((sintomas_df$id))) 
- sintomas_df1<- cbind(sintomas_df,tiene_fiebre)
+ 
+ sintomas_df<- data.frame(sintomas)
+ sintomas_df <- mutate(sintomas_df, tiene_fiebre=ifelse(temperatura>37.2,TRUE,FALSE))
